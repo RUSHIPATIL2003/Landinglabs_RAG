@@ -1,9 +1,9 @@
-Flask
-flask-cors
-groq
-sentence-transformers
+fastapi
+uvicorn
+python-dotenv
 chromadb
+sentence-transformers
 PyPDF2
-pdf2image
 pytesseract
-numpy
+pdf2image
+groq
