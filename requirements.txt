@@ -1,0 +1,9 @@
+Flask
+flask-cors
+groq
+sentence-transformers
+chromadb
+PyPDF2
+pdf2image
+pytesseract
+numpy
