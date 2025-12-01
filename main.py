@@ -7,7 +7,7 @@ import time
 
 
 
-PDF_PATH = r"D:\Projects\RAG ChatBot\landing_labs_full_detailed_info.pdf"
+PDF_PATH = r"E:\Volume D\Projects\RAG ChatBot\landing_labs_full_detailed_info.pdf"
 
 
 print(" Extracting text from PDF...")
